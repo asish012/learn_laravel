@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3955ac1b-94c5-41c5-b6cc-cf88edd4aaaf" name="Default Changelist" comment="" />
+    <list default="true" id="3955ac1b-94c5-41c5-b6cc-cf88edd4aaaf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/Http/Controllers/PersonController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/Models/Person.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/factories/PersonFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/migrations/2020_12_20_073239_create_people_table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/seeders/PersonSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/Providers/RouteServiceProvider.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/seeders/DatabaseSeeder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/api.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/api.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,12 +143,15 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1lrrSy0mm2Zo8z6REkHfODpz8ue" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
@@ -160,7 +174,7 @@
       <option name="presentableId" value="Default" />
       <updated>1608366056070</updated>
       <workItem from="1608366059098" duration="1695000" />
-      <workItem from="1608367934124" duration="659000" />
+      <workItem from="1608367934124" duration="9145000" />
     </task>
     <servers />
   </component>
@@ -178,5 +192,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
